@@ -1,0 +1,7 @@
+* Block Chain
+  - public ledger: ordered and timestamped record of transactions
+  - protect double spending/modification of previous records
+  - Bitcoin Network
+  - A Full node stores a block chain w/ blocks only validated by that node
+  - Consensus: all node have same blocks in their block chain
+** Block Chain Overview
